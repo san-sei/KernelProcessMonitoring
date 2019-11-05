@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.5:PlatformToolSet=WindowsApplicationForDrivers8.1:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Win7 Debug|Win32|C:\Users\Rio\Documents\courses\Thesis\Visual Studio Project\ProcessHooking\|

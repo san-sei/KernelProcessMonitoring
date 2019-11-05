@@ -1,0 +1,32 @@
+;
+; ProcessHooking.inf
+;
+
+[Version]
+Signature="$WINDOWS NT$"
+Class=
+ClassGuid=
+Provider=
+DriverVer=04/16/2015,11.43.36.391
+CatalogFile=ProcessHooking.cat
+
+[DestinationDirs]
+DefaultDestDir = 12
+
+
+[SourceDisksNames]
+1 = %DiskName%,,,""
+
+[SourceDisksFiles]
+
+
+[Manufacturer]
+%ManufacturerName%=Standard,NTx86
+
+[Standard.NTx86]
+
+
+[Strings]
+ManufacturerName=""
+ClassName=""
+DiskName="ProcessHooking Source Disk"
